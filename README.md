@@ -1,2 +1,2 @@
-# rand-3
+# rand(3)
 Cross platform task randomisation tool.
